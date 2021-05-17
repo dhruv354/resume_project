@@ -1,6 +1,9 @@
 # Resume Project
 
-**It is a dynamic website containg my resume, it has details like my profile ids, some of the projects, Education etc.**
+## website link
+https://resume-dhruv-singhal.herokuapp.com/
+
+**It is a dynamic website containg a resume template**
 
 ## Description
 * Built using pure html and css
