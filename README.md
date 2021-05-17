@@ -1,6 +1,6 @@
 # Resume Project
 
-**It is a static website containg my resume, it has details like my profile ids, some of the projects, Education etc.**
+**It is a dynamic website containg my resume, it has details like my profile ids, some of the projects, Education etc.**
 
 ## Description
 * Built using pure html and css
